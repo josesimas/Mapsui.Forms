@@ -1,0 +1,1 @@
+ nuget push .\MapsuiForms\MapsuiForms\bin\Release\MapsuiForms.1.0.2.nupkg -ApiKey oy2mvpplhyufu6e3jx2a6xtcdmel7vyunikf3infqhvqfy -Source https://api.nuget.org/v3/index.json
